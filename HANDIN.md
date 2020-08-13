@@ -1,7 +1,7 @@
 # smads18's docker hand-in
 
 mail: smads18@student.sdu.dk
-github: 
+github: https://github.com/simonmdsn/sdu-devops-docker/blob/master/HANDIN.md
 
 ## Exercise 1 - The multi-color TOIlet
 
